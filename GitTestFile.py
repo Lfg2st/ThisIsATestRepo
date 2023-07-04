@@ -6,3 +6,4 @@ for number in range(1, 1000):
         sum = sum + digit
 
 print(sum)
+print(sum + 1)

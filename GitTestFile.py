@@ -7,3 +7,4 @@ for number in range(1, 1000):
 
 print(sum)
 print(sum + 1)
+print(sum + 2)
